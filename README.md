@@ -8,7 +8,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF4500)
 ![MySQL](https://img.shields.io/badge/-MySQL-00FFFF)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-FFFFFF)
-![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-#B0E0E6)
+![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-B0E0E6)
 ![Github](https://img.shields.io/badge/-Github-F5FFFA)
 ![API](https://img.shields.io/badge/-API-00FF7F)
 ![Figma](https://img.shields.io/badge/-Figma-000000)
