@@ -16,4 +16,6 @@
 
 
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/ellsify)
+
