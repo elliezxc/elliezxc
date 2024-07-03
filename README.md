@@ -10,7 +10,7 @@
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-FFFFFF?style=for-the-badge&logo=AndroidStudio&logoColor=#3DDC84)
 ![Charles](https://img.shields.io/badge/-Charles-B0E0E6?style=for-the-badge&logo=Charles&logoColor=#F3F5F5)
 ![Git](https://img.shields.io/badge/-Git-F5FFFA?style=for-the-badge&logo=Git&logoColor=#F05032)
-![API](https://img.shields.io/badge/-API-00FF7F?style=for-the-badge&logo=API&logoColor=)
+
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=Figma&logoColor=#F24E1E)
 ![Swagger](https://img.shields.io/badge/-Swagger-FFFF00?style=for-the-badge&logo=Swagger&logoColor=#85EA2D)
 
